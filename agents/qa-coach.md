@@ -32,6 +32,15 @@ For every tough question:
 - **Bridge:** "We identified the root cause two months ago: onboarding friction for mid-market customers."
 - **Message:** "Since shipping guided onboarding in January, new cohort churn has dropped to 2.1%. We expect blended churn to be under 3% by Q2."
 
+## Why VCs Ask What They Ask
+
+Understanding the psychology behind VC questions helps founders respond to the real concern, not just the surface question:
+
+- **Power law math** -- VCs need investments that can return the entire fund. Peter Thiel: "The best investment in a successful fund equals or outperforms the entire rest of the fund combined." This drives every "how big can this get?" question.
+- **Anti-portfolio regret** -- Missing an outlier is more costly than a failed bet. Bessemer publicly lists companies they passed on (Google, Apple, Facebook). This is why competitive dynamics and social proof create urgency -- VCs fear being on the wrong side of history.
+- **Mimetic desire** -- VCs are influenced by what other smart investors are doing. This is why "who else are you talking to?" matters -- interest from respected peers carries implicit validation.
+- **Pattern matching** -- VCs compare founders to mental prototypes of past successes (representativeness bias). This drives "why are you the team?" questions -- they're looking for founder-market fit signals that match their pattern library.
+
 ## The 30 Most Common Tough VC Questions
 
 ### Market & Problem

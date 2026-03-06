@@ -113,6 +113,8 @@ This section always gets responses. Structure asks as:
 - **2-3 months before:** Skip the "relationship tour" -- wait to talk when you actually raise
 - **1-2 months before:** Too late for relationship building
 
+**Elad Gil's Warning:** "Do NOT try to 'build relationships' 1-2 months before fundraising. This almost always turns into a half-hearted pitch."
+
 ### Key Rules
 
 - **Choose your partner carefully.** The first person you meet becomes your point of contact, often permanently.
@@ -142,6 +144,14 @@ This section always gets responses. Structure asks as:
 - Acknowledge missed goals with what you learned
 - Present challenges alongside plans to address them
 - Provide context without excuses
+
+## Cross-Cutting Principles
+
+- **Transparency beats spin.** 58% of investors prefer transparent founders. Concealing challenges prevents help and erodes trust permanently.
+- **Specific asks drive action.** "Can you intro me to the VP of Sales at [Company]?" gets results. "Let me know if you can help" does not.
+- **Consistency beats perfection.** A mediocre monthly update sent on time builds more trust than a polished update sent sporadically.
+- **Crisis communication requires speed + plan.** Lead with bad news, explain your process, present recovery plan, open the floor.
+- **Board meetings are discussions, not presentations.** Send materials 48-72 hours in advance. Spend meeting time on strategic debate, not slide reading.
 
 ## Enhanced Analysis with Thinking Frameworks
 

@@ -22,14 +22,28 @@ Your pitch narrative = your business case. Ben Horowitz: "The company story IS t
 ### 2. Lead with the Earned Secret
 The most differentiating element: a non-obvious, non-consensus insight earned through direct experience. Peter Thiel: "What important truth do very few people agree with you on?" Mike Maples: The key word is *earned* -- discovered through experimentation, not read in a report.
 
+**Mike Maples' Three Slides:** The minimum viable pitch: (1) What you do, (2) Your non-obvious insight, (3) Proof validating the insight.
+
 ### 3. "Why Now" Is the Linchpin
 Every great pitch answers why this moment is uniquely suited. Must be a specific inflection point, not a gradual trend. Three categories: technology shifts, regulatory changes, behavioral/cultural shifts.
+
+**Concrete inflection examples:** Uber (smartphones + GPS + mobile payments converging), telehealth (post-COVID regulation change). Use the pattern: "In January 2024, API costs dropped 90%, making our solution profitable for the first time."
 
 ### 4. Prove Value Before Claiming Growth
 Andy Rachleff: "The only way you can succeed is if you serve someone who's desperate." Show desperate customers and organic pull before discussing scaling. The cardinal sin: testing growth before proving value.
 
+**Rachleff's Law:** "When a great team meets a lousy market, market wins. The #1 company-killer is lack of market." Counterintuitive insight: "You don't iterate on the what, you iterate on the who." If your value hypothesis isn't working, change the target audience, not the feature set.
+
 ### 5. The Customer Is the Hero
 Frame the narrative so the customer is transformed by your solution. You are the mentor (Gandalf, Obi-Wan), not the protagonist. Stories activate more brain areas than facts, triggering trust (oxytocin).
+
+**The Adapted Hero's Journey for Pitches:**
+1. **The Ordinary World** -- The customer's current painful reality
+2. **The Call to Adventure** -- The specific problem disrupting their status quo
+3. **Meeting the Mentor** -- Your company enters with a unique tool/approach
+4. **Trials and Tests** -- Obstacles overcome (pivots, iterations, customer discovery)
+5. **The Transformation** -- Measurable change your solution creates (metrics, testimonials)
+6. **The Return with the Elixir** -- Vision for the future + your funding ask
 
 ### 6. Market Size: Ambitious + Defensible
 Bottom-up credibility + top-down ambition. Best founders show how they expand the market, not just capture share. Avoid the "1% of China" fallacy. Present both top-down and bottom-up.
@@ -91,6 +105,19 @@ Every VC decision is shaped by two forces. The best pitches create both simultan
 - Urgency gets them to *act now*
 
 **The balance:** Conviction without urgency creates admiration but no action. Urgency without conviction feels like pressure. The best pitches combine genuine belief in an enormous outcome with a legitimate reason to decide now.
+
+### How Conviction and Urgency Map to the Narrative Arc
+
+| Narrative Beat | Builds Conviction | Creates Urgency |
+|----------------|-------------------|-----------------|
+| **Hook** | A striking data point about market size or growth | A shift or trend that signals timing matters |
+| **Problem** | The scale of unmet demand (how many people suffer) | What happens if this problem goes unsolved |
+| **Earned Secret** | "We see something nobody else sees" | "Others are starting to figure this out" |
+| **Why Now** | The inflection makes the opportunity dramatically larger | First-mover advantage has a window |
+| **Traction** | Growth trajectory that looks like the early days of breakout companies | Momentum is accelerating -- the business is working now |
+| **The Ask** | "This capital will unlock [massive milestone]" | "We have a clear timeline for this process" |
+
+**Warning:** Manufactured urgency without substance backfires permanently. Artificial scarcity, fabricated interest, or dishonest process signals will destroy your reputation. The urgency must be authentic: genuine traction acceleration, genuine investor interest, genuine market timing. VCs talk to each other constantly -- dishonesty spreads through the network within hours.
 
 ## When Reviewing or Helping Build a Pitch
 

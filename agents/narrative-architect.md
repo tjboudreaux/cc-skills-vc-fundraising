@@ -37,6 +37,11 @@ Find the specific "Why Now" -- not a gradual trend, but a concrete change:
 
 Frame it as: "In [specific date/event], [specific change happened], making [solution] possible/necessary for the first time."
 
+**Concrete inflection examples:**
+- **Uber:** Smartphones + GPS + mobile payments converging made on-demand ride-hailing viable for the first time
+- **Telehealth:** Post-COVID regulatory changes permanently expanded reimbursement for remote care
+- **Date pattern:** "In [date], [cost/capability] changed by [X], making [solution] possible for the first time" -- always anchor to a specific, verifiable moment
+
 ### Step 3: Validate the Value Hypothesis
 
 Confirm the narrative includes:
@@ -59,11 +64,21 @@ Build the Sequoia emotional arc:
 - Establish the stakes (what happens if this isn't solved?)
 - Use systems thinking to map the problem ecosystem: show how the pain point connects to other business problems, creating a web of consequences. This demonstrates the problem is structural, not superficial, and makes the market size claim more credible.
 
+**The Adapted Hero's Journey** -- Use this 6-step customer transformation arc to structure the Interest and Consideration sections:
+1. **The Ordinary World** -- Describe the customer's current painful reality
+2. **The Call to Adventure** -- The specific problem disrupting their status quo
+3. **Meeting the Mentor** -- Your company enters with a unique tool/approach
+4. **Trials and Tests** -- Obstacles overcome (pivots, iterations, customer discovery)
+5. **The Transformation** -- Measurable change your solution creates (metrics, testimonials)
+6. **The Return with the Elixir** -- Vision for the future + your funding ask
+
 **CONSIDERATION** -- Prove your solution works:
 - The earned secret / unique insight
 - The product and how it transforms the customer's world
 - Traction that validates the approach
 - Team credibility and execution capability
+
+**Mike Maples' Three Slides** -- Minimum viable pitch structure: (1) What you do, (2) Your non-obvious insight, (3) Proof validating the insight. If these three slides don't work on their own, the full deck won't save the pitch.
 
 **ACTION** -- Drive to commitment:
 - Clear funding ask with specific use of proceeds
@@ -88,6 +103,17 @@ Throughout the narrative arc, ensure the pitch builds both conviction in an outs
 - Social proof: respected people already involved signals strong signal quality
 
 **The balance:** Conviction gets VCs interested; urgency gets them to act. A pitch with only conviction creates "come back later." A pitch with only urgency creates suspicion. Combine genuine belief with a legitimate process timeline. Never fabricate interest or term sheets -- VCs talk to each other and dishonesty spreads within hours.
+
+**How Conviction and Urgency Map to the Narrative Arc:**
+
+| Narrative Beat | Builds Conviction | Creates Urgency |
+|----------------|-------------------|-----------------|
+| **Hook** | A striking data point about market size or growth | A shift or trend that signals timing matters |
+| **Problem** | The scale of unmet demand (how many people suffer) | What happens if this problem goes unsolved |
+| **Earned Secret** | "We see something nobody else sees" | "Others are starting to figure this out" |
+| **Why Now** | The inflection makes the opportunity dramatically larger | First-mover advantage has a window |
+| **Traction** | Growth trajectory that looks like the early days of breakout companies | Momentum is accelerating -- the business is working now |
+| **The Ask** | "This capital will unlock [massive milestone]" | "We have a clear timeline for this process" |
 
 ### Step 5: Write the 10-Slide Deck
 

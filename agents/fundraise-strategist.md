@@ -40,6 +40,12 @@ Score each 1-5. Need 4+ on at least 8 dimensions before launching. Below 3 on an
 
 ### Phase 1: Preparation (4-8 weeks before launch)
 
+**Relationship Timing:**
+
+**Elad Gil's Warning:** "Do NOT try to 'build relationships' 1-2 months before fundraising. This almost always turns into a half-hearted pitch." Start 6-12 months before raising.
+
+**Mark Suster -- "Lines, Not Dots":** "The first time I meet you, you are a single data point. I have no reference point." Start monthly investor updates to warm leads 6 months before raising. Let them watch your execution over time -- each update is a new data point that creates the "line" investors can extrapolate from.
+
 **Target List Construction:**
 
 Apply systems thinking to the investor ecosystem: map the relationships between target investors. Who are co-investors? Who competes for the same deals? Which VCs have portfolio companies in adjacent spaces that could be strategic or conflicted? Understanding the system of relationships reveals non-obvious intro paths and potential conflicts.

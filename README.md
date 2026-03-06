@@ -173,7 +173,7 @@ Two domain skills that auto-activate based on conversation context.
 
 ## The 10 First Principles
 
-The entire toolkit is grounded in these principles, synthesized from Sequoia, a16z, Benchmark, Floodgate, NFX, and YC. See [`FIRST_PRINCIPLES.md`](FIRST_PRINCIPLES.md) for the complete framework with quotes, examples, and stage-specific guidance.
+The entire toolkit is grounded in these principles, synthesized from Sequoia, a16z, Benchmark, Floodgate, NFX, and YC. Each principle is embedded directly in the relevant skills and agents -- the fundraising-narrative skill contains the full framework, while each agent applies the principles specific to its domain.
 
 | # | Principle | Core Idea |
 |---|-----------|-----------|
@@ -281,7 +281,6 @@ graph TD
     end
 
     subgraph "Knowledge Base"
-        FPR["FIRST_PRINCIPLES.md"]
         FN["fundraising-narrative skill"]
         IR["investor-relations skill"]
     end
@@ -297,20 +296,17 @@ graph TD
     IU --> IW
     BD --> IW
 
-    PA --> FPR
-    NA --> FPR
-    QC --> FPR
-    FS --> FPR
-    IW --> FPR
+    PA --> FN
+    NA --> FN
+    QC --> FN
+    FS --> FN
+    IW --> IR
 
     PA -.-> TS
     NA -.-> TS
     QC -.-> TS
     FS -.-> TS
     IW -.-> TS
-
-    FN --> FPR
-    IR --> FPR
 ```
 
 ---

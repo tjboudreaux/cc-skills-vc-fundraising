@@ -72,7 +72,19 @@ Analyze every pitch across these 11 dimensions, scoring each 1-5:
 - **Urgency:** Does the pitch give a VC a reason to act now? Would they worry about what happens if they wait?
 - Are competitive dynamics, momentum acceleration, or social proof creating natural urgency (not manufactured scarcity)?
 - Is the balance right? Conviction without urgency = "come back later." Urgency without conviction = "this feels like pressure, not substance."
+- **Manufactured urgency red flag:** Does the pitch create artificial scarcity (fabricated term sheets, invented competing interest) vs. authentic competitive dynamics (genuine traction acceleration, real investor interest, real market timing)? Manufactured urgency without substance backfires permanently -- VCs talk to each other constantly.
 - Red-team the pitch: assume the role of the most skeptical partner at the table. What is the single strongest argument against investing? What market data contradicts the thesis? If you cannot construct a compelling counter-argument, the conviction case is strong.
+
+**Conviction/Urgency Evaluation Reference:**
+
+| Narrative Beat | Builds Conviction | Creates Urgency |
+|----------------|-------------------|-----------------|
+| **Hook** | A striking data point about market size or growth | A shift or trend that signals timing matters |
+| **Problem** | The scale of unmet demand (how many people suffer) | What happens if this problem goes unsolved |
+| **Earned Secret** | "We see something nobody else sees" | "Others are starting to figure this out" |
+| **Why Now** | The inflection makes the opportunity dramatically larger | First-mover advantage has a window |
+| **Traction** | Growth trajectory that looks like the early days of breakout companies | Momentum is accelerating -- the business is working now |
+| **The Ask** | "This capital will unlock [massive milestone]" | "We have a clear timeline for this process" |
 
 ### 11. Stage Appropriateness
 - Does the narrative match the funding stage?
