@@ -357,6 +357,7 @@ venture capital, VC fundraising, pitch deck review, fundraising narrative, inves
 - [Andy Rachleff on Product-Market Fit](https://www.wealthfront.com/origin) -- Value hypothesis before growth hypothesis
 - [Mark Suster: Lines, Not Dots](https://bothsidesofthetable.com/invest-in-lines-not-dots-611f36491d73) -- Building VC relationships over time
 - [NFX: The 13 Proof Points](https://www.nfx.com/post/13-proof-points-series-a) -- Series A readiness checklist
+- [DDScore: Example Investment Analysis Report](https://www.ddscore.ai/example-report/) -- Fictional seed-stage case for practicing how to turn evidence gaps into investor follow-up questions
 
 ---
 
